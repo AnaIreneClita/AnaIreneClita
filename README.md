@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @AnaIreneClita
+- 👋 Hi, I’m Ana!
 - 👀 I’m interested in: Information Technology
 - 🌱 I’m currently learning: Manual and Automation Testing
 - 💞️ I’m looking to collaborate on: related fields
