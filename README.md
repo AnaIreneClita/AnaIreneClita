@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Ana
 - 👀 I’m interested in: Information Technology
 - 🌱 I’m currently learning: Manual and Automation Testing
-- 💞️ I’m looking to collaborate on: related fields
+- 😄 I’m looking to collaborate on: related fields
 - 📫 How to reach me: check my linkedIn profile
-- 😄 Pronouns: she/her
 - ⚡ Fun fact: I'm a creative person and I aim to combine creativity and logic in my work
