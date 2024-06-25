@@ -1,8 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Ana
 ===========================================================================================================================
 
-Junior QA Engineer | Junior Automation Tester
----------------------------------------------
+
 
 Enthusiastic IT beginner with a dedication to growth and skill acquisition. Recently completed a comprehensive manual and automation testing course, paving the way for a career in Quality Assurance. With a background as a casino dealer, I've cultivated meticulous attention to detail and adeptness at ensuring precision. Seeking an entry-level opportunity to apply newfound skills and contribute positively to a supportive and collaborative environment within the QA field.
 
