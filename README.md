@@ -3,7 +3,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 
 
-Enthusiastic IT beginner with a dedication to growth and skill acquisition. Recently completed a comprehensive manual and automation testing course, paving the way for a career in Quality Assurance. With a background as a casino dealer, I've cultivated meticulous attention to detail and adeptness at ensuring precision. Seeking an entry-level opportunity to apply newfound skills and contribute positively to a supportive and collaborative environment within the QA field.
+As an ISTQB-certified QA Tester with a diverse background in game and software testing, I excel at blending creativity with analytical thinking to deliver outstanding user experiences. My passion is focused on maintaining the highest standards of quality and functionality in every project I pursue. I am eager to transition into software QA, where I can leverage my attention to detail and innovative mindset to deliver impactful results in the tech industry.
 
 *   🌍  I'm based in Bucharest, Romania
 *   ✉️  You can contact me at [ana.irene.clita@gmail.com](mailto:ana.irene.clita@gmail.com)
