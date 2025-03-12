@@ -3,7 +3,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 
 
-As an ISTQB-certified QA Tester with a diverse background in game and software testing, I excel at blending creativity with analytical thinking to deliver outstanding user experiences. My passion is focused on maintaining the highest standards of quality and functionality in every project I pursue. I am eager to transition into software QA, where I can leverage my attention to detail and innovative mindset to deliver impactful results in the tech industry.
+As an ISTQB-certified QA Engineer with a diverse background in game and software testing, I thrive at the intersection of analytical precision and creative problem-solving. My expertise lies in ensuring seamless functionality, exceptional user experiences, and the highest quality standards across every project I undertake. Passionate about refining digital products, I am committed to identifying and resolving issues that enhance usability, performance, and overall customer satisfaction.
 
 *   🌍  I'm based in Bucharest, Romania
 *   ✉️  You can contact me at [ana.irene.clita@gmail.com](mailto:ana.irene.clita@gmail.com)
